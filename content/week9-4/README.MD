@@ -12,7 +12,7 @@ if와 else 와 같은 반복문을 C에서 사용하는 방법을 익히고 파�
 
 그리고 첫 백준 사이트 홈워크를 안내하고 모임을 마쳤습니다.
 
-> 문제목록
+> HW1 문제목록
 - 18108 [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
 - 10430 [나머지](https://www.acmicpc.net/problem/10430)
 - 2588 [곱셈](https://www.acmicpc.net/problem/2588)
